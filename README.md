@@ -1,4 +1,5 @@
 # Demo-Project
 This is my first Git Repository.
 <br>
-Author - Ritik Premakar
+Author - Ritik Premakar(ITCY)
+
